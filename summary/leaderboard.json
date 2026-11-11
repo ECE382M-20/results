@@ -1,0 +1,39 @@
+{
+  "axes": {
+    "x": {
+      "direction": "maximize",
+      "key": "tokens_per_second",
+      "label": "Throughput (tok/s)"
+    },
+    "y": {
+      "direction": "maximize",
+      "key": "score_100",
+      "label": "Score (/100)"
+    }
+  },
+  "frontier": [
+    {
+      "commit": "d11d39ef86b756774c6fa5ef5d820b8fce9f7412",
+      "score_100": 51.2,
+      "team": "group-5",
+      "team_name": "Team 10",
+      "tokens_per_second": 6.7
+    }
+  ],
+  "generated_at": 1794377542.2219436,
+  "min_score_100": 10,
+  "skipped_runs": 0,
+  "teams": {
+    "group-5": [
+      {
+        "commit": "d11d39ef86b756774c6fa5ef5d820b8fce9f7412",
+        "on_frontier": true,
+        "score_100": 51.2,
+        "team": "group-5",
+        "team_name": "Team 10",
+        "tokens_per_second": 6.7
+      }
+    ]
+  },
+  "total_runs": 1
+}
