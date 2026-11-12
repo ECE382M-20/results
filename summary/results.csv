@@ -1,6 +1,7 @@
 team,commit,finished_at,passed,score_100,tokens_per_second,prefill_tok_s,ttft_ms_median,ttft_ms_p95,load_s,peak_rss_mb,prompt_tokens,generated_tokens,wall_clock_s
 group-5,d11d39ef86b756774c6fa5ef5d820b8fce9f7412,1794377547.6078732,True,51.2,6.7,,,,,,,,
 group-5,5cf2a6adf68ec1fea753a9ca01e2be84b77a1a10,1794379942.5748029,True,51.2,6.98,,,,,,,,
-group-9,d88a682f643b2bafccd61315401076501f4b806d,,True,51.6,4.4,,,,,,,,
+group-9,480ea321a2c4ae09646004a644cfab1147465f12,,True,41.5,7.3,,,,,,,,
 group-9,37cd7b013767b5425c799a00720a00e861a05112,1794419988.7638023,True,53.3,1.99,,,,,,,,
 group-9,d252fe04759dcb5843f03c635d54ba9c3b75748a,1794443573.2523127,True,52.9,3.41,,,,,,,,
+group-9,d88a682f643b2bafccd61315401076501f4b806d,1794461513.352919,True,51.6,4.4,,,,,,,,
