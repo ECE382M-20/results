@@ -44,7 +44,7 @@
       "tokens_per_second": 8.78
     }
   ],
-  "generated_at": 1794888561.366805,
+  "generated_at": 1794922354.0139706,
   "min_score_100": 10,
   "skipped_runs": 0,
   "teams": {
@@ -128,6 +128,16 @@
         "team": "group-5",
         "team_name": "Team 10",
         "tokens_per_second": 7.85
+      }
+    ],
+    "group-7": [
+      {
+        "commit": "23b0053b06305256f4707cdcecc8b0dc08c6e1e4",
+        "on_frontier": false,
+        "score_100": 52.5,
+        "team": "group-7",
+        "team_name": "Team 7",
+        "tokens_per_second": 0.41
       }
     ],
     "group-8": [
@@ -233,5 +243,5 @@
       }
     ]
   },
-  "total_runs": 24
+  "total_runs": 25
 }
