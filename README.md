@@ -1,6 +1,6 @@
 # Results
 
-Generated 2026-11-16 19:38:16 UTC · 23 run(s) across 3 team(s).
+Generated 2026-11-17 03:31:59 UTC · 23 run(s) across 3 team(s).
 
 ![Pareto frontier](summary/pareto.png)
 
