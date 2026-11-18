@@ -25,17 +25,11 @@
       "tokens_per_second": 3.59
     },
     {
-      "commit": "1e4d010769d6db8ad5cf2fa499d251e7508c12c0",
-      "score_100": 55.6,
+      "commit": "962c869e7f5ec9a04de61a41dc0ce68057de1969",
+      "score_100": 57.1,
       "team": "group-5",
       "team_name": "Team 10",
-      "tokens_per_second": 6.13
-    },
-    {
-      "commit": "2fe06efa839931279f1d10a320e29e9ed1693f27",
-      "score_100": 52.8,
-      "team": "group-9",
-      "tokens_per_second": 8.35
+      "tokens_per_second": 8.51
     },
     {
       "commit": "8933708f4923a3c07d1b937a3673df7531fc9fed",
@@ -44,7 +38,7 @@
       "tokens_per_second": 8.78
     }
   ],
-  "generated_at": 1794956936.9587998,
+  "generated_at": 1794968490.8744948,
   "min_score_100": 10,
   "skipped_runs": 0,
   "teams": {
@@ -86,7 +80,7 @@
       },
       {
         "commit": "1e4d010769d6db8ad5cf2fa499d251e7508c12c0",
-        "on_frontier": true,
+        "on_frontier": false,
         "score_100": 55.6,
         "team": "group-5",
         "team_name": "Team 10",
@@ -155,6 +149,14 @@
         "team": "group-5",
         "team_name": "Team 10",
         "tokens_per_second": 7.85
+      },
+      {
+        "commit": "962c869e7f5ec9a04de61a41dc0ce68057de1969",
+        "on_frontier": true,
+        "score_100": 57.1,
+        "team": "group-5",
+        "team_name": "Team 10",
+        "tokens_per_second": 8.51
       }
     ],
     "group-7": [
@@ -263,7 +265,7 @@
       },
       {
         "commit": "2fe06efa839931279f1d10a320e29e9ed1693f27",
-        "on_frontier": true,
+        "on_frontier": false,
         "score_100": 52.8,
         "team": "group-9",
         "tokens_per_second": 8.35
@@ -277,5 +279,5 @@
       }
     ]
   },
-  "total_runs": 29
+  "total_runs": 30
 }
