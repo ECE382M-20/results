@@ -1,6 +1,6 @@
 # Results
 
-Generated 2026-11-18 03:14:58 UTC · 32 run(s) across 6 team(s).
+Generated 2026-11-18 03:29:33 UTC · 33 run(s) across 6 team(s).
 
 ![Pareto frontier](summary/pareto.png)
 
@@ -8,7 +8,7 @@ Generated 2026-11-18 03:14:58 UTC · 32 run(s) across 6 team(s).
 
 | team | score | tok/s | commit | frontier runs |
 | --- | ---: | ---: | --- | ---: |
-| group-2 | 26.2 | 40.08 | `7e073770` | 1 |
+| group-2 | 32.4 | 61.36 | `5fc07754` | 1 |
 | group-9 | 41.5 | 8.78 | `8933708f` | 1 |
 | group-5 | 57.1 | 8.51 | `962c869e` | 1 |
 | group-8 | 70.5 | 3.59 | `6e852d21` | 2 |
