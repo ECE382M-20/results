@@ -1,0 +1,67 @@
+{
+  "commit": "50d6bfd263faaf96ead57e7523b0cb3127a50393",
+  "finished_at": 1795311127.4236608,
+  "job_id": 83,
+  "metrics": {
+    "score_100": 43.0,
+    "tokens_per_second": 18.81
+  },
+  "passed": true,
+  "raw": {
+    "environment": {
+      "agent_version": "0.4.1",
+      "bitstream": "design.bit",
+      "board": "Ultra96-V2",
+      "fabric": {
+        "built": "2026/11/21 18:58:22",
+        "clocks_mhz": {
+          "fclk0": 214.283571,
+          "fclk1": 249.9975,
+          "fclk2": 99.999,
+          "fclk3": 99.999
+        },
+        "design_name": "design_1_wrapper;UserID=0XFFFFFFFF;Version=2022.2",
+        "hwh_used": true,
+        "ip_blocks": [
+          "d19",
+          "profile",
+          "ps"
+        ],
+        "part": "xczu3eg-sbva484-1-i",
+        "warnings": []
+      },
+      "finished_at": 1795264991.8031425,
+      "source": "stdout",
+      "started_at": 1795264729.5811877,
+      "temperature": {
+        "after_c": {
+          "pl_temp": 53.8,
+          "ps_temp": 55.5,
+          "remote_temp": 55.1
+        },
+        "before_c": {
+          "pl_temp": 51.7,
+          "ps_temp": 53.2,
+          "remote_temp": 51.8
+        }
+      }
+    },
+    "job_id": "group-5-50d6bfd2-83",
+    "log_excerpt": "  starting: /home/xilinx/grader/jobs/group-5-50d6bfd2-83/llama-server -m <model> -t 1 -tb 1 --host 127.0.0.1 --port 8080 --no-warmup\n  server ready in 33.8s\n  mode: chat (/v1/chat/completions)  threads: 1\n\n[hellaswag] 20 items\n    1/20   score=0.000 ( 3.71s)\n    2/20   score=0.349 ( 3.47s)\n    3/20   score=0.000 ( 4.67s)\n    4/20   score=0.000 ( 2.85s)\n    5/20   score=0.000 ( 4.26s)\n    6/20   score=0.000 ( 3.35s)\n    7/20   score=0.995 ( 3.82s)\n    8/20   score=0.000 ( 4.75s)\n    9/20   score=0.098 ( 3.98s)\n   10/20   score=0.000 ( 5.50s)\n   11/20   score=0.781 ( 4.18s)\n   12/20   score=0.000 ( 4.06s)\n   13/20   score=1.000 ( 5.13s)\n   14/20   score=0.000 ( 3.23s)\n   15/20   score=0.000 ( 4.10s)\n   16/20   score=0.000 ( 4.50s)\n   17/20   score=0.000 ( 3.08s)\n   18/20   score=0.000 ( 3.16s)\n   19/20   score=0.000 ( 4.96s)\n   20/20   score=0.000 ( 4.14s)\n\n[arc_easy] 20 items\n    1/20   score=0.000 ( 2.74s)\n    2/20   score=0.970 ( 2.37s)\n    3/20   score=0.000 ( 1.61s)\n    4/20   score=0.000 ( 2.96s)\n    5/20   score=0.000 ( 2.59s)\n    6/20   score=0.000 ( 2.22s)\n    7/20   score=0.000 ( 2.78s)\n    8/20   score=0.963 ( 2.36s)\n    9/20   score=1.000 ( 4.26s)\n   10/20   score=0.000 ( 2.85s)\n   11/20   score=0.995 ( 2.18s)\n   12/20   score=0.999 ( 2.70s)\n   13/20   score=0.000 ( 1.96s)\n   14/20   score=0.000 ( 3.08s)\n   15/20   score=0.000 ( 2.22s)\n   16/20   score=1.000 ( 1.61s)\n   17/20   score=0.394 ( 2.85s)\n   18/20   score=0.997 ( 3.12s)\n   19/20   score=1.000 ( 3.04s)\n   20/20   score=0.961 ( 2.44s)\n\n[ifeval] 10 items\n    1/10   score=1.000 ( 3.30s)\n    2/10   score=1.000 ( 4.89s)\n    3/10   score=1.000 ( 2.28s)\n    4/10   score=1.000 ( 2.98s)\n    5/10   score=0.500 ( 3.56s)\n    6/10   score=1.000 ( 6.06s)\n    7/10   score=1.000 ( 2.16s)\n    8/10   score=1.000 (14.96s)\n    9/10   score=0.500 ( 1.89s)\n   10/10   score=1.000 ( 6.34s)\nscore       43.0 / 100\nthroughput  18.81 tok/s",
+    "report": {
+      "performance": {
+        "tokens_per_second": 18.81
+      },
+      "quality": {
+        "score_100": 43.0
+      }
+    },
+    "schema_version": 1,
+    "status": "ok",
+    "warnings": []
+  },
+  "repo": "ECE382M-20/ece382m-20-fa26-project-group-5",
+  "schema_version": 1,
+  "team": "group-5",
+  "team_name": "Team 10"
+}
