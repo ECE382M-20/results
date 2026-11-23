@@ -1,6 +1,6 @@
 # Results
 
-Generated 2026-11-23 19:51:24 UTC · 58 run(s) across 9 team(s).
+Generated 2026-11-23 20:13:28 UTC · 59 run(s) across 9 team(s).
 
 ![Pareto frontier](summary/pareto.png)
 
@@ -13,7 +13,7 @@ To be ranked, a run needs a score of at least 20 and at least 0.5 tok/s. Runs be
 | group-2 | 32.4 | 61.36 | `5fc07754` | 1 |
 | group-4 | 27.5 | 36.53 | `cc403987` | 0 |
 | group-5 | 43.0 | 18.81 | `50d6bfd2` | 3 |
-| group-8 | 41.1 | 10.89 | `0e2618f5` | 3 |
+| group-8 | 41.1 | 10.89 | `0e2618f5` | 4 |
 | group-9 | 46.3 | 10.33 | `286adb81` | 2 |
 | group-18 | 56.4 | 7.87 | `6fcb1f61` | 0 |
 | group-7 | 51.5 | 4.28 | `c1a7012d` | 0 |
@@ -24,7 +24,7 @@ To be ranked, a run needs a score of at least 20 and at least 0.5 tok/s. Runs be
 
 | team | score | tok/s | commit | frontier runs |
 | --- | ---: | ---: | --- | ---: |
-| group-8 | 71.7 | 2.29 | `bed486da` | 3 |
+| group-8 | 71.7 | 2.29 | `bed486da` | 4 |
 | group-5 | 57.1 | 10.02 | `b8afec6b` | 3 |
 | group-18 | 56.4 | 7.87 | `6fcb1f61` | 0 |
 | group-9 | 53.3 | 1.99 | `37cd7b01` | 2 |
