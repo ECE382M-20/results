@@ -69,7 +69,7 @@
       "tokens_per_second": 61.36
     }
   ],
-  "generated_at": 1795714379.042565,
+  "generated_at": 1795716463.4012022,
   "min_score_100": 20,
   "min_tokens_per_second": 0.5,
   "skipped_runs": 1,
@@ -111,6 +111,13 @@
       }
     ],
     "group-12": [
+      {
+        "commit": "210b16bbaeacbc8dcc6957bd5dc41e75dc20ca2e",
+        "on_frontier": false,
+        "score_100": 51.9,
+        "team": "group-12",
+        "tokens_per_second": 3.01
+      },
       {
         "commit": "ed08665c3e0388857955361d58d11c894b84286b",
         "on_frontier": false,
@@ -690,5 +697,5 @@
       }
     ]
   },
-  "total_runs": 75
+  "total_runs": 76
 }
