@@ -1,6 +1,6 @@
 # Results
 
-Generated 2026-11-27 14:16:27 UTC · 88 run(s) across 13 team(s).
+Generated 2026-11-27 19:43:06 UTC · 89 run(s) across 13 team(s).
 
 ![Pareto frontier](summary/pareto.png)
 
@@ -20,7 +20,7 @@ To be ranked, a run needs a score of at least 20 and at least 0.5 tok/s. Runs be
 | Team 1 | 56.4 | 7.87 | `6fcb1f61` | 0 |
 | Team 7 | 51.5 | 4.28 | `c1a7012d` | 0 |
 | group-12 | 51.9 | 3.01 | `ed08665c` | 1 |
-| Team 13 | 20.6 | 0.82 | `c7014e34` | 0 |
+| Team 13 | 22.5 | 1.30 | `54107519` | 0 |
 | Team 18 | 51.5 | 0.53 | `f89f22dc` | 0 |
 
 ## Most accurate passing run per team
@@ -38,4 +38,4 @@ To be ranked, a run needs a score of at least 20 and at least 0.5 tok/s. Runs be
 | Team 17 | 50.5 | 1.95 | `2a3615e8` | 0 |
 | Team 9 | 41.6 | 7.26 | `4778a0b7` | 0 |
 | Team 23 | 27.8 | 35.79 | `22affb41` | 0 |
-| Team 13 | 20.6 | 0.82 | `c7014e34` | 0 |
+| Team 13 | 22.5 | 1.30 | `54107519` | 0 |
