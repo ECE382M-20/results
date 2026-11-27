@@ -1,6 +1,6 @@
 # Results
 
-Generated 2026-11-27 01:50:16 UTC · 80 run(s) across 12 team(s).
+Generated 2026-11-27 02:33:35 UTC · 81 run(s) across 12 team(s).
 
 ![Pareto frontier](summary/pareto.png)
 
@@ -11,8 +11,8 @@ To be ranked, a run needs a score of at least 20 and at least 0.5 tok/s. Runs be
 | team | score | tok/s | commit | frontier runs |
 | --- | ---: | ---: | --- | ---: |
 | Team 2 | 30.3 | 295.82 | `9e899239` | 2 |
+| Team 9 | 22.9 | 36.60 | `e4bcbb2e` | 0 |
 | Team 23 | 27.5 | 36.53 | `cc403987` | 0 |
-| Team 9 | 22.9 | 33.07 | `10668025` | 0 |
 | Team 10 | 43.0 | 18.81 | `50d6bfd2` | 2 |
 | Team 12 | 48.4 | 11.35 | `aafda2a8` | 5 |
 | Team 11 | 48.9 | 11.22 | `ada002c9` | 1 |
