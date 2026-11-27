@@ -1,10 +1,11 @@
 team,commit,finished_at,passed,score_100,tokens_per_second,prefill_tok_s,ttft_ms_median,ttft_ms_p95,load_s,peak_rss_mb,prompt_tokens,generated_tokens,wall_clock_s
 group-1,f89f22dc01acef96d687d0f33e456ebb8bae3e3b,1795509037.1309767,True,51.5,0.53,,,,,,,,
-group-10,e4bcbb2e7c7ec5227dee992afaa1c740974d5418,,True,22.9,36.6,,,,,,,,
 group-10,29c1e047a43a88c88513ae79f048453ed56e1067,1795653111.862497,True,40.0,4.11,,,,,,,,
 group-10,68cb9e60ed252af6a1b6ab483686ef0834cbfddf,1795676761.259929,True,41.6,5.63,,,,,,,,
 group-10,4778a0b7ae380e7cc5deeb6b5e128fda6de1952c,1795714386.3613548,True,41.6,7.26,,,,,,,,
 group-10,10668025abe996cd663c46282adf21506418d178,1795744222.8971088,True,22.9,33.07,,,,,,,,
+group-10,e4bcbb2e7c7ec5227dee992afaa1c740974d5418,1795746821.1737916,True,22.9,36.6,,,,,,,,
+group-12,21cb6688d38a984bb6c25f7ee091ee2cd78da8bc,,True,75.5,1.65,,,,,,,,
 group-12,ed08665c3e0388857955361d58d11c894b84286b,1795709848.4823513,True,51.9,3.01,,,,,,,,
 group-12,210b16bbaeacbc8dcc6957bd5dc41e75dc20ca2e,1795716469.5305524,True,51.9,3.01,,,,,,,,
 group-14,c7014e34e8a3991d7578a495687e5ced09e99ff7,1795042042.7021773,True,20.6,0.82,,,,,,,,
